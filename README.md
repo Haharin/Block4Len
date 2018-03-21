@@ -1,5 +1,4 @@
-
-## Blockchain
+﻿## Blockchain
 Reference at: https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
 |               |                    |
 |----------------|-|
@@ -19,6 +18,9 @@ Reference at: https://hackernoon.com/learn-blockchains-by-building-one-117428612
 |Hash       |6c14da109e294d1e8155be8aa4b1ce8e	 |8542516f8870173d7d1daba1daaaf0a1     |
 |PrevHash       |0 	 |6c14da109e294d1e8155be8aa4b1ce8e          |
 |Proof       |324984774000 	 |3446546545650          |
+
 ## Wallet
 
 Functionality for work with the block. A user account, transactions and other interface will be designed during the development process
+
+
