@@ -32,6 +32,6 @@ Reference at: https://hackernoon.com/learn-blockchains-by-building-one-117428612
 
 ## Wallet
 
-Functionality for work with the blockchain. A user account, transactions and other interface will be designed during the development process.
+Functionality for working with blockchain. A user account, transactions and other interface will be designed during the development process.
 
 
